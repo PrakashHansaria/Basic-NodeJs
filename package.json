@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Tells the weather of a given city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Prakash Hansaria",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakashHansaria/Basic-NodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PrakashHansaria/Basic-NodeJs/issues"
+  },
+  "homepage": "https://github.com/PrakashHansaria/Basic-NodeJs#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
